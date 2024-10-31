@@ -12,7 +12,7 @@ Note that all scanners use environment variables for configuration values. You c
 # .env.local
 NUMVERIFY_API_KEY="value"
 GOOGLECSE_CX="value"
-GOOGLE_API_KEY="value"
+GOOGLE_API_KEY="value "
 ```
 
 ```shell
